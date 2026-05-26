@@ -108,4 +108,5 @@ The CO2 concentration also changed with room conditions. CO2 values increased wh
 - Compare the sensor readings with reference instruments.
  
 **Author**
+
 This project was developed as part of a DIY Sensors for Environmental Monitoring course.
